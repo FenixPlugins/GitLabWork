@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Git!");
+﻿Console.WriteLine("This project is stored on GitHub.");
